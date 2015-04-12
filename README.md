@@ -17,14 +17,14 @@ Git 是一種**版本控制系統**，簡稱 VCS (Version Control System)。他�
 你可以透過 terminal (終端機、command line、命令列
 指令列)下一些指令達到上面說的神奇效果。當然，也有簡單的圖形化介面(GUI, Graphic User Interface)，不用會寫 code，也能使用。下面就來繼續介紹！
 
-## 線上 git 空間: GitHub, Bitbucket
+## git 網路託管空間: GitHub, Bitbucket
 
 git 本身可以在 local 端（本機端、自己的電腦）運行，也可以上傳到網路上的平台，either 是你要
 
 1. 貢獻 public 的開源社群
 2. 跟其他人合作的 private 專案
 
-線上都有很多「空間」能夠讓你上傳/管理你的 git 專案。這裡提兩個最常見的
+線上都有很多「空間」（正名：Shared Web Hosting Service、共享虛擬主機服務、網路託管服務）能夠讓你上傳/管理你的 git 專案。這裡提兩個最常見的
 
 1. [GitHub](https://github.com)
 2. [Bitbucket](https://bitbucket.org/)
@@ -34,9 +34,9 @@ git 本身可以在 local 端（本機端、自己的電腦）運行，也可以
 ![Bitbucket](https://www.bearfruit.org/files/2013/03/logoBitBucketPNG.png)
 
 
-## 圖形化工具: GitHub Desktop, SourceTree
+## 圖形化介面: GitHub Desktop, SourceTree
 
-上面有提到「圖形化工具」，這裡就來介紹由上面兩家公司，各自出的圖形化工具，輔助各位使用 git。
+上面有提到「圖形化介面」，這裡就來介紹由上面兩家公司，各自出的圖形化工具，輔助各位使用 git。
 
 
 1. GitHub Desktop: For [Windows](https://windows.github.com/), [Mac](https://mac.github.com/)
