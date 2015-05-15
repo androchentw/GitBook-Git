@@ -4,6 +4,10 @@
 
 希望讓看得人，就算不會寫 code ，也能使用版本控制工具！
 
+TODO:
+
+3.2, 3.2.1, 4.1
+
 ## Git
 
 ![Git](http://git-scm.com/images/logo@2x.png)
